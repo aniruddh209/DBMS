@@ -1,0 +1,1 @@
+-- Summarize Delete, Truncate and Drop
